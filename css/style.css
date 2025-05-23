@@ -63,4 +63,23 @@
     margin-bottom: 8px;
   }
 
+  body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+  }
+
+  h1 {
+    color: #d8a735; 
+    font-size: 70px;
+    font-weight: normal;
+  }
+
+  .conteudo {
+    max-width: 500px;
+    text-align: left;
+    line-height: 2;
+    font-size: 50px;
+    color: #000000;
+  
+  }
   
